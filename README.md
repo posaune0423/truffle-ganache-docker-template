@@ -1,0 +1,1 @@
+# truffle-ganache-docker-template
